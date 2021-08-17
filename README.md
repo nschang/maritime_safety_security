@@ -1,5 +1,5 @@
 # maritime_safety_security
-The worl is fueled by maritime trade and we need to ensure safety and security in sea routes and ports. To do so one of the main means, is the  earliest detection of craft or vessel  approching our own vessel or entering in the harbord area. Security camera are there for this purpose but, can't be  efficiently manned by human. Artificial Intelligence is one of the solution to complement human skill.
+The world is fueled by maritime trade and we need to ensure safety and security in sea routes and ports. To do so one of the main means, is the  earliest detection of craft or vessel  approching our own vessel or entering in the harbord area. Security camera are there for this purpose but, can't be  efficiently manned by human. Artificial Intelligence is one of the solution to complement human skill.
 For this project, we custom trained a YOLOV3 detection model with a six (6) classes vessel dataset available. Here are the project description:
 1. find and process a suitable dataset for our purpose: ship detection<br/>
    https://www.researchgate.net/publication/327085456_SeaShips_A_Large-Scale_Precisely-Annotated_Dataset_for_Ship_Detection
